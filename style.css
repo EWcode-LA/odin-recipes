@@ -1,29 +1,27 @@
 body {
-    background-color: aqua;
+  background-color: aqua;
 }
 
 h1 {
-    color: bisque;
-    
-    text-align: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
+  color: rgb(17, 17, 17);
+
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
-
-
 .ul {
-    color: coral;
-    text-align: center;
-    list-style: inside;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    
+  color: rgb(17, 17, 17);
+  text-justify: center;
+  text-align: center;
+  list-style: inside;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
