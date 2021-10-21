@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  color: rgb(17, 17, 17);
+  color:black;
 
   text-align: center;
   margin-top: 100px;
@@ -11,7 +11,7 @@ h1 {
 }
 
 .ul {
-  color: rgb(17, 17, 17);
+  color: black);
   text-align: center;
   list-style: inside;
   margin-top: 100px;
